@@ -1,0 +1,132 @@
+{
+  "blank": {
+    "js": "blank.b3da3a.chunk.js"
+  },
+  "datepicker": {
+    "js": "datepicker.2e3706.chunk.js"
+  },
+  "datepickerrange": {
+    "js": "datepickerrange.733d26.chunk.js"
+  },
+  "texteditor": {
+    "js": "texteditor.be50cb.chunk.js"
+  },
+  "recaptcha": {
+    "js": "recaptcha.ce3a64.chunk.js"
+  },
+  "redrag": {
+    "js": "redrag.291fc9.chunk.js"
+  },
+  "select": {
+    "js": "select.39af85.chunk.js"
+  },
+  "selectbox": {
+    "js": "selectbox.df722f.chunk.js"
+  },
+  "openinghour": {
+    "js": "openinghour.aff47b.chunk.js"
+  },
+  "password": {
+    "js": "password.c3a44c.chunk.js"
+  },
+  "tags": {
+    "js": "tags.90d724.chunk.js"
+  },
+  "reactiveAutoSearch": {
+    "js": "reactiveAutoSearch.05fc80.chunk.js"
+  },
+  "selectgroup": {
+    "js": "selectgroup.627500.chunk.js"
+  },
+  "pagination": {
+    "js": "pagination.7859b8.chunk.js"
+  },
+  "inputMask": {
+    "js": "inputMask.5a6bef.chunk.js"
+  },
+  "slideralt": {
+    "js": "slideralt.873305.chunk.js"
+  },
+  "geobox": {
+    "js": "geobox.3e4ef4.chunk.js"
+  },
+  "sort": {
+    "js": "sort.9be076.chunk.js"
+  },
+  "iconpicker": {
+    "js": "iconpicker.dddfef.chunk.js"
+  },
+  "rating": {
+    "js": "rating.7a9bc2.chunk.js"
+  },
+  "timeperiod": {
+    "js": "timeperiod.9d53ab.chunk.js"
+  },
+  "mapautocomplete": {
+    "js": "mapautocomplete.4f307b.chunk.js"
+  },
+  "countdown": {
+    "js": "countdown.3ecc1b.chunk.js"
+  },
+  "switchalt": {
+    "js": "switchalt.f32243.chunk.js"
+  },
+  "textarea": {
+    "js": "textarea.1cec3f.chunk.js"
+  },
+  "radio": {
+    "js": "radio.b80827.chunk.js"
+  },
+  "imageupload": {
+    "js": "imageupload.bfbeeb.chunk.js"
+  },
+  "fileupload": {
+    "js": "fileupload.797aef.chunk.js"
+  },
+  "comboselect": {
+    "js": "comboselect.37451d.chunk.js"
+  },
+  "combobox": {
+    "js": "combobox.c4a28b.chunk.js"
+  },
+  "checkbox": {
+    "js": "checkbox.39d18b.chunk.js"
+  },
+  "text": {
+    "js": "text.6c01d8.chunk.js"
+  },
+  "slider": {
+    "js": "slider.44ea18.chunk.js"
+  },
+  "text-repeat": {
+    "js": "text-repeat.5165ba.chunk.js"
+  },
+  "minmaxbutton": {
+    "js": "minmaxbutton.0b636d.chunk.js"
+  },
+  "imageuploadalt": {
+    "js": "imageuploadalt.f8d2ad.chunk.js"
+  },
+  "iconselect": {
+    "js": "iconselect.6d8d6f.chunk.js"
+  },
+  "colorpicker": {
+    "js": "colorpicker.5bfaf3.chunk.js"
+  },
+  "label": {
+    "js": "label.9168eb.chunk.js"
+  },
+  "atag": {
+    "js": "atag.15c275.chunk.js"
+  },
+  "compoundbutton": {
+    "js": "compoundbutton.24c555.chunk.js"
+  },
+  "reuse": {
+    "js": "reuse.c0d84f.js",
+    "css": "../css/reuse-form-two.css"
+  },
+  "vendor": {
+    "js": "reuse_vendor.8bef6d.js"
+  }
+}
